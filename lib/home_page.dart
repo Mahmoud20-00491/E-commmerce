@@ -147,7 +147,7 @@ class _HomePageState extends State<HomePage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    "Select Your Size:",
+                    "Select Your Style:",
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
                   ),
                   SizedBox(
